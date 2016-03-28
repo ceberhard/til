@@ -8,8 +8,9 @@ if not (os.path.exists(folder_path) and os.path.isdir(folder_path)):
     os.makedirs(folder_path)
 ```
 Notice the conditional:
-1.  checks for existence
-2.  confirms that the path is a directory.
+
+1. checks for existence
+2. confirms that the path is a directory
 
 ### References:
 http://stackoverflow.com/questions/8933237/how-to-find-if-directory-exists-in-python
