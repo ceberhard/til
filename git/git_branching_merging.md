@@ -3,7 +3,7 @@ To create a new branch from an existing one:
 ```bash
 git checkout -b new-branch
 ```
-* Slashes are acceptable in branch names, and actually create url paths in github
+*Slashes are acceptable in branch names, and actually create url paths in github*
 
 To publish the new branch to github:
 ```bash
@@ -14,7 +14,7 @@ To see branches within your local git repository:
 ```bash
 git branch
 ```
-* The active branch will have any asterik(*) next to it
+*The active branch will have any asterik(*) next to it*
 
 To switch back to the original branch:
 ```bash
