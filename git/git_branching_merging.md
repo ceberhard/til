@@ -33,5 +33,7 @@ git branch -d new-branch
 
 ### References:
 https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
+
 https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches
+
 http://stackoverflow.com/questions/5601931/best-and-safest-way-to-merge-a-git-branch-into-master
