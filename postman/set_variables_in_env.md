@@ -19,4 +19,5 @@ postman.setEnvironmentVariable("enc_creds", enc_creds);
 
 ### References
 https://www.getpostman.com/docs/environments
+
 http://blog.getpostman.com/2014/01/27/extracting-data-from-responses-and-chaining-requests/
