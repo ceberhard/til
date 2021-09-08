@@ -9,11 +9,12 @@ This is a set of references for technologies topics that I come across as I am w
 
 ## C#
 
-- [Variable Assignment in Declaration Pattern Match](c-sharp/declaration_pattern_matching.md)
 - [Entity Framework 6 - View SQL](c-sharp/entity_framework_6_view_sql.md)
 - [Local Functions](c-sharp/local_functions.md)
 - [Pattern Match Switch Syntax](c-sharp/pattern_switch_syntax.md)
+- [Record Types](c-sharp/record_type.md)
 - [Save Stream to File](c-sharp/save_stream_to_file.md)
+- [Variable Assignment in Declaration Pattern Match](c-sharp/declaration_pattern_matching.md)
 
 ## Git
 

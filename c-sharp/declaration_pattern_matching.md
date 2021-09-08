@@ -1,4 +1,3 @@
-
 ## Assign a new variable when matching a declaration type pattern
 
 ```C#
