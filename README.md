@@ -1,6 +1,6 @@
 # Today I Learned
 
-This is a set of references for technologies topics that I come across as I am working as a prefoessional software developer.
+This is a set of references for technologies topics that I come across as I am working as a professional software developer.
 
 ## Bash
 
@@ -14,7 +14,12 @@ This is a set of references for technologies topics that I come across as I am w
 - [Pattern Match Switch Syntax](c-sharp/pattern_switch_syntax.md)
 - [Record Types](c-sharp/record_type.md)
 - [Save Stream to File](c-sharp/save_stream_to_file.md)
+- [Top-Level Statements](c-sharp/top_level_statements.md)
 - [Variable Assignment in Declaration Pattern Match](c-sharp/declaration_pattern_matching.md)
+
+## Cosmos
+
+- [Connect via C#](cosmosdb/connect_via_csharp.md)
 
 ## Git
 
