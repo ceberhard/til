@@ -1,4 +1,3 @@
-
 ## Local Functions
 
 Private methods that can be nested in another member and can only called from within their member. Can be nested within:

@@ -31,8 +31,11 @@ This is a set of references for technologies topics that I come across as I am w
 
 ## Powershell
 
+- [Comments](powershell/comments.md)
 - [Conditionals](powershell/conditionals.md)
 - [Get Script Location](powershell/get_script_location.md)
+- [Modules](powershell/modules.md)
+- [Scope](powershell/variable_scope.md)
 
 ## Python
 
